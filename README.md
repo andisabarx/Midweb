@@ -28,7 +28,7 @@ To use this application, users simply enter an artist name or song title into th
 Untuk menampilkan lirik lagu pada gambar menggunakan aplikasi ini, Anda cukup memasukkan nama artis atau judul lagu ke dalam formulir pencarian dan menekan tombol ‘cari’. Aplikasi ini akan mencari lirik lagu dari database API di https://song-lyrics-api.azharimm.dev dan menampilkan hasilnya.
 
 
-#ini adalah contoh gambar penggunaan database api yang saya gunakan agar lirik tampil
+# ini adalah contoh gambar penggunaan database api yang saya gunakan agar lirik tampil
 
 ![Screenshot 2023-11-01 191337](https://github.com/andisabarx/Midweb/assets/54459720/0ebc848c-9e2e-4086-a4df-2175f7118ed9)
 
