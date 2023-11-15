@@ -2,7 +2,7 @@
 # ANDI MUHAMMAD SABAR D121212032
 # ide 
 The app is designed to allow users to search for song lyrics by artist name or song title. 
-#Visit My Result (You can also see the results on https://andisabarx.github.io/Midweb/ or https://midweb-lirik.vercel.app/)
+# Visit My Result (You can also see the results on https://andisabarx.github.io/Midweb/ or https://midweb-lirik.vercel.app/)
 # fitur
 Song Lyrics Search: Users can enter an artist name or song title into a search form, and the application will fetch song lyrics from an external API.
 Search Results Display: The search results are displayed in a format that’s easy to read for users.
